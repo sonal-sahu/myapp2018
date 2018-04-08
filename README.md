@@ -44,6 +44,7 @@ Which will start our application on http://localhost:3000/
 Install Bootstrap
 Looking to quickly add Bootstrap to your project? Use BootstrapCDN, provided for free by the folks at MaxCDN. 
 Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
+	
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 And then put in index.html.
 
