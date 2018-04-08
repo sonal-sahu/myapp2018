@@ -20,6 +20,7 @@ If everything when fine, you should run
 brew install node
 
 Node installation on Linux
+
 sudo apt-get install python-software-properties
 sudo add-apt-repository ppa:chris-lea/node.js
 sudo apt-get update
